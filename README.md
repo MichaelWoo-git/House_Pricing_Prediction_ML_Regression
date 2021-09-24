@@ -20,19 +20,14 @@ In order to acheive that, I did the following:
 
 ### Visuals
 
-<h3><center> <i> Metrics of the Models </i></center></h3>
+### Metrics of the Models 
 
 ![metrics](Screenshots/metrics.jpg)
 
-<h3><center><i>Model Summary</i></center></h3>
+### Model Summary
 
 ![models](Screenshots/model_comparison.jpg)
 
-<h3><center><i> Shap Plot of Features</i></center></h3>
+### Shap Plot of Features
 
 ![shap](Screenshots/shap.jpg)
-
-
-```python
-
-```
