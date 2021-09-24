@@ -21,12 +21,12 @@ In order to acheive that, I did the following:
 
 ### Metrics of the Models 
 
-![metrics](/Screenshots/metrics.jpg)
+![metrics](/Screenshots/metrics.JPG)
 
 ### Model Summary
 
-![models](/Screenshots/model_comparison.jpg)
+![models](/Screenshots/model_comparison.JPG)
 
 ### Shap Plot of Features
 
-![shap](/Screenshots/shap.jpg)
+![shap](/Screenshots/shap.JPG)
