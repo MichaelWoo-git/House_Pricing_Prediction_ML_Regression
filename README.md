@@ -12,7 +12,6 @@ In order to acheive that, I did the following:
     * As for Engineering, _Hot Encoding_ transformations of the categorical features chosen, and _Binning_ and _Logarithmic_ transformations on numerical features chosen
 * __Evaluation Regression Models__
     * Models that were used were the following: _Random Forest Regressor_, _Support Vector Regressor_, _Gradient Boosting Regressor_
-
     * Compared them previous features that were used prior to feature selection and engineering
     * Regression Metrics (MAE, MSE, RMSE, RS^2)
     * SHAP Plots
