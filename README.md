@@ -19,7 +19,7 @@ In order to acheive that, I did the following:
 
 ### Visuals
 
-<h3><center>Metrics of the Models</center></h3>
+### Metrics of the Models
 
 ![metrics](/Screenshots/metrics.JPG)
 
@@ -27,6 +27,6 @@ In order to acheive that, I did the following:
 
 ![models](/Screenshots/model_comparison.JPG)
 
-### Shap Plot of Features
+### SHAP Plot of Features
 
 ![shap](/Screenshots/shap.JPG)
