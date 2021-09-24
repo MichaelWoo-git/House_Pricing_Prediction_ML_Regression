@@ -1,11 +1,38 @@
-# House_Pricing_Prediction_ML_Regression
-#### Applied_Regression_Techniques_and_Analysis.ipynb
+# Project Name: House_Pricing_Prediction_ML_Regression
+#### Jupyter Notebook Name: Applied_Regression_Techniques_and_Analysis.ipynb
 
-Competition of predicting house pricing when given 79 explanatory varibles describing every aspect of residential homes in Ames, Iowa. My task was to predict the final price of each home. In order to acheive that, I did the following:
-* Cleaned and Prepared the data
-** Handled outliers and ensure that no null values were present in the dataset
-* Feature Selection and Engineering
-** Used statistical methods (Spearman Correlation and Random Forest Feature Importance) to choose the best features and reduced
-** As for Engineering Used Hot Encoding of the categorical features, Binning and Log transformations on numerical features
-* Evaluation Regression Models 
-**compared them previous features that were used prior to feature selection and engineering
+__Description__:
+Competition of predicting house pricing when given 79 explanatory varibles describing every aspect of residential homes in Ames, Iowa. My task was to predict the final price of each home. 
+
+In order to acheive that, I did the following:
+* __Cleaned and Prepared the data__
+    * Handled outliers and ensure that no null values were present in the dataset
+* __Feature Selection and Engineering__
+    * Used statistical methods (_Spearman Correlation_,_Scoring Function_,  _Random Forest Feature Importance_) to choose the best features and reduced
+    * As for Engineering, _Hot Encoding_ transformations of the categorical features chosen, and _Binning_ and _Logarithmic_ transformations on numerical features chosen
+* __Evaluation Regression Models__
+    * Models that were used were the following: _Random Forest Regressor_, _Support Vector Regressor_, _Gradient Boosting Regressor_
+
+    * Compared them previous features that were used prior to feature selection and engineering
+    * Regression Metrics (MAE, MSE, RMSE, RS^2)
+    * SHAP Plots
+    
+
+### Visuals
+
+<h3><center> <i> Metrics of the Models </i></center></h3>
+
+![metrics](Screenshots/metrics.jpg)
+
+<h3><center><i>Model Summary</i></center></h3>
+
+![models](Screenshots/model_comparison.jpg)
+
+<h3><center><i> Shap Plot of Features</i></center></h3>
+
+![shap](Screenshots/shap.jpg)
+
+
+```python
+
+```
