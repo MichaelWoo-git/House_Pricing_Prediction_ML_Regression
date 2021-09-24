@@ -19,7 +19,7 @@ In order to acheive that, I did the following:
 
 ### Visuals
 
-### Metrics of the Models 
+<h3><center>Metrics of the Models</center></h3>
 
 ![metrics](/Screenshots/metrics.JPG)
 
